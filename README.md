@@ -1,7 +1,8 @@
 # Pandas School Data Analysis
 
 Using the Pandas library to show trends in school performance.
-Data is for a single school district.
+
+
 
 ## Findings
 
@@ -16,7 +17,7 @@ Data is for a single school district.
 
 ### District Summary
 
-![District Summary](Images/District Summary.png)
+![District Summary](Images/district_summary.png)
 
 
 ### School Summary
