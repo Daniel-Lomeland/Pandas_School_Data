@@ -4,7 +4,7 @@ Using the Pandas library to show trends in school performance
 
 ### District Summary
 
-![District Summary](Images/district_summary.PNG)
+![District Summary](district_summary.PNG)
 
 * A high level snapshot (in table form) of the district's key metrics. 
 
@@ -13,7 +13,7 @@ Using the Pandas library to show trends in school performance
 
 ### School Summary
 
-![School Summary](Images/school_summary.PNG)
+![School Summary](school_summary.PNG)
 
 * An overview table that summarizes key metrics about each school.
 
@@ -22,7 +22,7 @@ Using the Pandas library to show trends in school performance
 
 ### Top Performing Schools (By Passing Rate)
 
-![Top Performing](Images/top_preforming_passing.PNG)
+![Top Performing](top_preforming_passing.PNG)
 
 * The top 5 performing schools based on Overall Passing Rate. 
 
@@ -31,7 +31,7 @@ Using the Pandas library to show trends in school performance
 
 ### Bottom Performing Schools (By Passing Rate)
 
-![Passing Rate](Images/bottom_preforming_passing.PNG)
+![Passing Rate](bottom_preforming_passing.PNG)
 
 * The bottom 5 performing schools based on Overall Passing Rate. Include all of the same metrics as above.
 
@@ -39,7 +39,7 @@ Using the Pandas library to show trends in school performance
 
 ### Math Scores by Grade\*\*
 
-![Math Scores by Grade](Images/math_scores_by_grade.PNG)
+![Math Scores by Grade](math_scores_by_grade.PNG)
 
 * Table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
@@ -47,7 +47,7 @@ Using the Pandas library to show trends in school performance
 
 ### Reading Scores by Grade
 
-![Math Scores by Grade](Images/reading_scores_by_grade.PNG)
+![Math Scores by Grade](reading_scores_by_grade.PNG)
 
 * Table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
@@ -55,7 +55,7 @@ Using the Pandas library to show trends in school performance
 
 ### Scores by School Spending
 
-![Scores by School Spending](Images/school_scores_by_spending.PNG)
+![Scores by School Spending](school_scores_by_spending.PNG)
 
 * Table that breaks down school performances based on average Spending Ranges (Per Student). School spending broken down into 4 bins to group.
 
@@ -63,7 +63,7 @@ Using the Pandas library to show trends in school performance
 
 ### Scores by School Size
 
-![Scores by School Size](Images/scores_by_school_size.PNG)
+![Scores by School Size](scores_by_school_size.PNG)
 
 * Schools based on a 3 bins of school sizes (Small, Medium, Large).
 
@@ -71,7 +71,7 @@ Using the Pandas library to show trends in school performance
 
 ### Scores by School Type
 
-![Scores by School Type](Images/scores_by_school_type.PNG)
+![Scores by School Type](scores_by_school_type.PNG)
 
 * Schools based on school type (Charter vs. District).
 
